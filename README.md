@@ -9,20 +9,6 @@ Proyek analisis data Olist E-Commerce Public Dataset (Jan 2017 - Agu 2018) beser
 
 Analisis lanjutan: RFM Analysis, Manual Grouping (Binning), dan Geospatial Analysis.
 
-## Struktur Folder
-```
-submission
-├───dashboard
-│   ├───main_data.csv
-│   └───dashboard.py
-├───data
-│   └───(dataset asli Olist)
-├───notebook.ipynb
-├───README.md
-├───requirements.txt
-└───url.txt
-```
-
 ## Setup Environment - Anaconda
 ```
 conda create --name main-ds python=3.11
